@@ -24,4 +24,5 @@ function mostrarCartas($cartas){
 
 $cartas = repartirCartas();
 mostrarCartas($cartas);
+
 ?>
